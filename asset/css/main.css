@@ -360,7 +360,7 @@ button {
     font-size: 1.7rem;
     font-style: italic;
     margin-left: 21px;
-    color: #00000094;
+    color: rgb(61 60 60);
     padding-top: 10px;
 }
 .thoi_luong_video {
@@ -368,7 +368,7 @@ button {
     padding: 3px 0;
     display: block;
     font-size: 1.2rem;
-    color: #00000094;
+    color: rgb(61 60 60);
 }
 .thoi_luong_video i {
     color: rgb(167 162 162);
